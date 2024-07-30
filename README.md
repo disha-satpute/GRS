@@ -1,8 +1,9 @@
 - Problem Statement :
   ### To develop a web-based application on Grievance Redressal System.
   
-**PANELS 
-Admin Panel
+PANELS 
+-
+- Admin Panel
   --
   1. Admin Login                       
   2. Dashboard
@@ -15,18 +16,18 @@ Admin Panel
   9. Reports
   10. User log
   11. Profile
-
-Sub-admin Panel
---
+      
+- Sub-admin Panel
+  --
   1. Sub-admin Login
   2. Dashboard
   3. Manage Complaints
   4. Profile
   5. Change password
   6. Forgot Password
-
-User Panel
---
+  
+- User Panel
+  --
  1. User Registration
  2. User Login
  3. Forgot Password
@@ -36,8 +37,11 @@ User Panel
  7. Complaint History
  8. Change password
 
-Technology Used 
+TECHNOLOGY USED
 -
+1.fff
+2.ujk
+
 
 
 
