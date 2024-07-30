@@ -1,8 +1,7 @@
 - Problem Statement :
   ### To develop a web-based application on Grievance Redressal System.
---
-
-** PANELS -
+  
+**PANELS 
 Admin Panel
   --
   1. Admin Login                       
