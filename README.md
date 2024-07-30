@@ -1,4 +1,4 @@
-- Problem Statement -
+- Problem Statement :
   ### To develop a web-based application on Grievance Redressal System.
 --
 Admin Panel
@@ -34,6 +34,10 @@ User Panel
  6. Lodge Complaint
  7. Complaint History
  8. Change password
+
+Technology Used 
+-
+
 
 
 
