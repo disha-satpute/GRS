@@ -24,7 +24,7 @@ Sub-admin Panel
   5. Change password
   6. Forgot Password
 
-User Panek
+User Panel
 --
  1. User Registration
  2. User Login
@@ -33,6 +33,8 @@ User Panek
  5. USer Profile
  6. Lodge Complaint
  7. Complaint History
- 8. Change password 
+ 8. Change password
+
+
 
 
