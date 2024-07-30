@@ -39,8 +39,8 @@ PANELS
 
 TECHNOLOGY USED
 -
-1.fff
-2.ujk
+  1.fff
+  2.ujk
 
 
 
