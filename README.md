@@ -41,8 +41,10 @@ TECHNOLOGY USED
 -
   1. XXAMP
   2. Php
-  3. Html
-  4. Javascript
+  3. MySql
+  4. Html,css
+  5. Javascript
+  6. JQuery
 
 OBJECTIVES
 -
