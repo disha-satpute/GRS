@@ -40,8 +40,19 @@ PANELS
 TECHNOLOGY USED
 -
   1. XXAMP
-  2. mysql
-  3. 
+  2. Php
+  3. Html
+  4. Javascript
+
+OBJECTIVES
+-
+- To develop an organizational framework to resolve grievances of students and other stakeholders.
+- To provide the students access to immediate,hassle free resource to have their grievance redressed.
+- To provide a unified interface to the administration of the system.
+- There will be no risk of data mismanagement.
+- This system makes the overall project management much easier and flexible.
+- User friendliness will be provided in the application with various control.
+     
 
 
 
