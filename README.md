@@ -1,6 +1,6 @@
 ## Problem Statement : To develop a web-based application on Grievance Redressal System.
 
-PAGES 
+PAGES -
 -
 - Admin Panel
   --
@@ -36,7 +36,7 @@ PAGES
   7. Complaint History
   8. Change password
 
-TECHNOLOGY USED
+TECHNOLOGY USED -
 -
   1. XXAMP
   2. Php
@@ -45,7 +45,7 @@ TECHNOLOGY USED
   5. Javascript
   6. JQuery
 
-OBJECTIVES
+OBJECTIVES -
 -
 - To develop an organizational framework to resolve grievances of students and other stakeholders.
 - To provide the students access to immediate,hassle free resource to have their grievance redressed.
