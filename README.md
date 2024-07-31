@@ -32,15 +32,16 @@ PANELS
   2. User Login
   3. Forgot Password
   4. User Dashboard
-  5. USer Profile
+  5. User Profile
   6. Lodge Complaint
   7. Complaint History
   8. Change password
 
 TECHNOLOGY USED
 -
-  1.fff
-  2.ujk
+  1. XXAMP
+  2. mysql
+  3. 
 
 
 
