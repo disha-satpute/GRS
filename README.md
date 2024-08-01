@@ -53,6 +53,10 @@ OBJECTIVES -
 - There will be no risk of data mismanagement.
 - This system makes the overall project management much easier and flexible.
 - User friendliness will be provided in the application with various control.
+
+FUTURE SCOPE -
+-
+
      
 
 
