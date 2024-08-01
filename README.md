@@ -56,6 +56,9 @@ OBJECTIVES -
 
 FUTURE SCOPE -
 -
+- Multichannel Engagement
+- Mobile App Development
+- 
 
      
 
