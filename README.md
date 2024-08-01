@@ -61,7 +61,12 @@ FUTURE SCOPE -
 - Advance Analytics and reporting
 - Continuous Improvement and feedback loop
 
-     
+## Installation
+- Just, Clone this repository - 
+````bash 
+git clone //github.com/disha-satpute/grs.git
+````
+- Open the project in your preferred IDE (e.g., Visual Studio code) and build the project.
 
 
 
