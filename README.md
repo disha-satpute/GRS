@@ -58,6 +58,7 @@ FUTURE SCOPE -
 -
 - Multichannel Engagement
 - Mobile App Development
+- Advance Analytics and reporting
 - 
 
      
