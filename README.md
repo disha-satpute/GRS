@@ -61,7 +61,8 @@ FUTURE SCOPE -
 - Advance Analytics and reporting
 - Continuous Improvement and feedback loop
 
-## Installation
+INSTALLATION -
+-
 - Just, Clone this repository - 
 ````bash 
 git clone //github.com/disha-satpute/grs.git
