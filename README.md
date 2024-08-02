@@ -54,6 +54,13 @@ OBJECTIVES -
 - This system makes the overall project management much easier and flexible.
 - User friendliness will be provided in the application with various control.
 
+CONCLUSION -
+-
+It is evident that a GRS is a vital aspect of any educational Institutions.The provision of channels 
+for studentsto express their views and complaints, as well as the quick resolution of these issues,
+is crucial. The students can also freely express their concerns. Thus, investing in the development of
+student's grievance system can be a valuable investment choice for all types of educational institutions.
+
 FUTURE SCOPE -
 -
 - Multichannel Engagement
