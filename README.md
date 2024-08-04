@@ -45,7 +45,7 @@ TECHNOLOGY USED -
   5. Javascript
   6. JQuery
 
-OBJECTIVES -
+🎯OBJECTIVES -
 -
 - To develop an organizational framework to resolve grievances of students and other stakeholders.
 - To provide the students access to immediate,hassle free resource to have their grievance redressed.
@@ -54,7 +54,7 @@ OBJECTIVES -
 - This system makes the overall project management much easier and flexible.
 - User friendliness will be provided in the application with various control.
 
-CONCLUSION -
+☑️CONCLUSION -
 -
 It is evident that a GRS is a vital aspect of any educational Institutions.The provision of channels 
 for studentsto express their views and complaints, as well as the quick resolution of these issues,
