@@ -1,6 +1,6 @@
 ### Problem Statement : To develop a web-based application on Grievance Redressal System.
 
-WEB PAGES -
+🖥️WEB PAGES -
 -
 - Admin Panel
   --
@@ -61,7 +61,7 @@ for studentsto express their views and complaints, as well as the quick resoluti
 is crucial. The students can also freely express their concerns. Thus, investing in the development of
 student's grievance system can be a valuable investment choice for all types of educational institutions.
 
-FUTURE SCOPE -
+📱FUTURE SCOPE -
 -
 - Multichannel Engagement
 - Mobile App Development
